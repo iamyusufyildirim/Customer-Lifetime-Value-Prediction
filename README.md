@@ -1,6 +1,7 @@
 # Predicting Customer Lifetime Value in FLO
 
-![alt text](https://github.com/iamyusufyildirim/FLO/blob/main/Photo/FLO.jpg)
+![alt text](https://www.washingtonian.com/wp-content/uploads/2020/11/iStock-1180001050-994x663.jpg)
+
 
 ## İŞ PROBLEMİ:
 ---------------
